@@ -14,3 +14,12 @@ lang: zh-CN
 ## 提交规则
 
 如果您希望您维护的规则出现在此处，请[提交issue](https://github.com/FirefoxBar/HeaderEditor/issues/new)
+// 匹配规则
+^http(s?)://(.*).bing\.com/(.*)
+
+// 头名称
+x-forwarded-for
+
+// 头内容
+8.8.8.8
+复制代码
